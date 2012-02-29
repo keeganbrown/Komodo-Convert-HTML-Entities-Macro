@@ -3,7 +3,7 @@ This is a quick Komodo IDE/Edit 7.0.* Macro that will convert Unicode characters
 For example, it will take "™" and make it in to: "&amp;trade;".
 
 You probably don't need to download "HTML_Entities.js" to use it.
-Just copy the JS from the raw view of the [HTML_Entities.js](./raw/master/HTML_Entities.js) file,
+Just copy the JS from the raw view of the [HTML_Entities.js](raw/master/HTML_Entities.js) file,
 create a new macro in Komodo 7.* (probably works just fine in 6.* too), and paste the code into the macro's content.
 Make sure to select Javascript as the Language.
 
